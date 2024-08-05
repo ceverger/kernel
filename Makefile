@@ -1,4 +1,4 @@
-obj-m += test.o
+obj-m += test1.o
  
 PWD := $(CURDIR)
  
